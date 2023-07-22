@@ -42,14 +42,14 @@
 },
  
  "my_data":[
-  {"title":"title1 ser","desc":"description1 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title2 ser","desc":"description2 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title3 ser","desc":"description3 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title4 ser","desc":"description4 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title5 ser","desc":"description5 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title6 ser","desc":"description6 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title7 ser","desc":"description7 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title8 ser","desc":"description8 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
+  {"title":"apk-garry-2023 1","desc":"description1 ser","photo":"https://iili.io/HQdr7af.webp"},
+  {"title":"apk-garry-2023 2","desc":"description2 ser","photo":"https://iili.io/HQd4fV9.webp"},
+  {"title":"apk-garry-2023 3","desc":"description3 ser","photo":"https://iili.io/HQd4qPe.webp"},
+  {"title":"apk-garry-2023 4","desc":"description4 ser","photo":"https://iili.io/HQd45V1.webp"},
+  {"title":"apk-garry-2023 5","desc":"description5 ser","photo":"https://iili.io/HQd4Sb2.webp"},
+  {"title":"apk-garry-2023 6","desc":"description6 ser","photo":"https://iili.io/HQd4rW7.webp"},
+  {"title":"apk-garry-2023 7","desc":"description7 ser","photo":"https://iili.io/HQd44s9.webp"},
+  {"title":"apk-garry-2023 8","desc":"description8 ser","photo":"https://iili.io/HQd4Z5x.webp"}
    ]
  
 }
