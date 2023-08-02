@@ -5,18 +5,6 @@
 "unity_banner":"Banner_Android",
 "unity_reward":"Rewarded_Android",
 "unity_gameid":"5082535",
-  
-  
-"applovin_inter":"269d73adeea133fb",
-"applovin_native":"5534d47212ed8e80",
-"applovin_banner":"d7e5387a22cc8044",
-"applovin_reward":"a017b8481646d9c2",
-
-  
-"ironsource_inter":"DefaultInterstitial",
-"iron_appkey":"85460dcd",
-"ironsource_banner":"DefaultBanner",
-"ironsource_reward":"DefaultReward",
  
 
 "facebook_inter":"IMG_16_9_APP_INSTALL#1444095999348608_1507496829675191",
@@ -31,59 +19,37 @@
 "admob_reward":"ca-app-pub-3940256099942544/5224354917",
   
   
-"yandex_banner":"R-M-2537943-1",
-"yandex_inter":"R-M-2537943-3",
-"yandex_native":"R-M-2537943-2",
-"yandex_reward":"R-M-2537943-4",
+"yandex_banner":"R-M-DEMO-320x100",
+"yandex_inter":"R-M-DEMO-interstitial",
+"yandex_native":"R-M-DEMO-native-i",
+"yandex_reward":"demo-rewarded-yandex",
 
 
-"youtubelink_1_id":"hdisyyd",
-"youtubelink_2_id":"hdisyyd",
-"detail_text1":"1) open file in chrome.. and File is Auto Downloading..\n\n 2) open Download folder and Extract to .zip file which ", 
-"detail_text2":"1) open file in chrome.. and File is Auto Downloading..\n\n 2) open Download folder and Extract to .zip file which ", 
-"banner_network_choice":"yandex", 
-"interstisial_network_choice":"yandex", 
-"reward_network_choice":"yandex",
-"native_network_choice":"yandex"
+
+"start_vpn":"yes",
+"banner_network_choice":"facebook", 
+"interstisial_network_choice":"facebook", 
+"reward_network_choice":"facebook",
+"native_network_choice":"facebook",
   
   
-
+"ovpn_file":[
+  {"country":"fr","file":"https://raw.githubusercontent.com/imad-123/callrecorder.github.io/gh-pages/it.ovpn","username":"gGsTnPQCwNqJ5b5z","password":"a7uPTJJbVTyUWb16xw96N7jzE3K0S9uG"},
+  {"country":"fr1","file":"https://raw.githubusercontent.com/imad-123/callrecorder.github.io/gh-pages/it.ovpn","username":"gGsTnPQCwNqJ5b5z","password":"a7uPTJJbVTyUWb16xw96N7jzE3K0S9uG"},
+  {"country":"fr2","file":"https://raw.githubusercontent.com/imad-123/callrecorder.github.io/gh-pages/it.ovpn","username":"gGsTnPQCwNqJ5b5z","password":"a7uPTJJbVTyUWb16xw96N7jzE3K0S9uG"}
+   ]
 
 },
  
  "my_data":[
-  {"title":"TV MAN VS MECHA mod 1 ", 
-  "download_num":"20255",
-  "visite_num":"23565",
-  "photo":"https://iili.io/Hi4a52n.webp"},
-  {"title":"TV MAN VS MECHA  Mod 2",
-  "download_num":"555458",
-  "visite_num":"21241",
-  "photo":"https://iili.io/Hi4aYkG.webp"},
-  {"title":"TV MAN VS MECHA  Mod 3",
-  "download_num":"58038",
-  "visite_num":"21451",
-  "photo":"https://iili.io/Hi4a0hl.webp"},
-  {"title":"TV MAN VS MECHA  Mod 4",
-  "download_num":"589788",
-  "visite_num":"266341",
-  "photo":"https://iili.io/Hi4a0hl.webp"},
-  {"title":"Spider cameraman Mod 5",
-  "download_num":"5212258",
-  "visite_num":"51441",
-  "photo":"https://iili.io/Hi4crV2.webp"},
-  {"title":"TV MAN VS MECHA Mod 6",
-  "download_num":"584558",
-  "visite_num":"21051",
-  "photo":"https://iili.io/Hi4cmoQ.webp"},
-  {"title":"TV MAN VS MECHA Mod 7",
-  "download_num":"582458",
-  "visite_num":"28541",
-  "photo":"https://iili.io/Hi4lniN.webp"},
-  {"title":"TV MAN VS MECHA Mod 8",
-  "download_num":"586458",
-  "visite_num":"21341",
-  "photo":"https://iili.io/Hi4lxfI.webp"}
+  {"title":"title1 ser","desc":"description1 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
+  {"title":"title2 ser","desc":"description2 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
+  {"title":"title3 ser","desc":"description3 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
+  {"title":"title4 ser","desc":"description4 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
+  {"title":"title5 ser","desc":"description5 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
+  {"title":"title6 ser","desc":"description6 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
+  {"title":"title7 ser","desc":"description7 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
+  {"title":"title8 ser","desc":"description8 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
    ]
  
 }
