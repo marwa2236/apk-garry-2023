@@ -19,10 +19,10 @@
 "ironsource_reward":"DefaultReward",
  
 
-"facebook_inter":"IMG_16_9_APP_INSTALL#1444095999348608_1507496829675191",
+"facebook_inter":"3535744600034268_3536903973251664",
 "facebook_banner":"3535744600034268_3535748676700527",
 "facebook_native":"3535744600034268_3536301946645200",
-"facebook_reward":"PLAYABLE#1444095999348608_1582552458836294",
+"facebook_reward":"3535744600034268_3536904076584987",
   
 
 "admob_inter":"ca-app-pub-3940256099942544/1033173712",
@@ -41,8 +41,8 @@
 "detail_text1":"1) open file in chrome.. and File is Auto Downloading..\n\n 2) open Download folder and Extract to .zip file which ", 
 "detail_text2":"1) open file in chrome.. and File is Auto Downloading..\n\n 2) open Download folder and Extract to .zip file which ", 
 "banner_network_choice":"facebook", 
-"interstisial_network_choice":"yandex", 
-"reward_network_choice":"yandex",
+"interstisial_network_choice":"facebook", 
+"reward_network_choice":"facebook",
 "native_network_choice":"facebook"
   
   
